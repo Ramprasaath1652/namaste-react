@@ -6,16 +6,16 @@ const Footer = () => {
       Created By
       <i className="fa-solid fa-heart"></i>
       <a
-        href="https://www.linkedin.com/in/chetannada/"
+        href="https://www.linkedin.com/in/ramprasaath-m/"
         target="_blank"
-        title="Chetan Nada's Linkedin Profile"
+        title="Ramprasaath's Linkedin Profile"
       >
         Chetan Nada
       </a>
       <i className="fa-solid fa-copyright"></i>
       {year}
       <a
-        href="https://github.com/chetannada/Namaste-React"
+        href=""
         target="_blank"
         title="Food Fire Github Repository"
       >
